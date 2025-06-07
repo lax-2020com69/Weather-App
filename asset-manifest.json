@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lax-2020com69/Weather-App/static/css/main.7fd82353.css",
-    "main.js": "/lax-2020com69/Weather-App/static/js/main.103c0d0e.js",
-    "static/js/453.63261c35.chunk.js": "/lax-2020com69/Weather-App/static/js/453.63261c35.chunk.js",
-    "index.html": "/lax-2020com69/Weather-App/index.html",
-    "main.7fd82353.css.map": "/lax-2020com69/Weather-App/static/css/main.7fd82353.css.map",
-    "main.103c0d0e.js.map": "/lax-2020com69/Weather-App/static/js/main.103c0d0e.js.map",
-    "453.63261c35.chunk.js.map": "/lax-2020com69/Weather-App/static/js/453.63261c35.chunk.js.map"
+    "main.css": "/Weather-App/static/css/main.7fd82353.css",
+    "main.js": "/Weather-App/static/js/main.739246a7.js",
+    "static/js/453.63261c35.chunk.js": "/Weather-App/static/js/453.63261c35.chunk.js",
+    "index.html": "/Weather-App/index.html",
+    "main.7fd82353.css.map": "/Weather-App/static/css/main.7fd82353.css.map",
+    "main.739246a7.js.map": "/Weather-App/static/js/main.739246a7.js.map",
+    "453.63261c35.chunk.js.map": "/Weather-App/static/js/453.63261c35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fd82353.css",
-    "static/js/main.103c0d0e.js"
+    "static/js/main.739246a7.js"
   ]
 }
